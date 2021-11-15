@@ -1,5 +1,5 @@
 {
-  "name": "segmentio/analytics-php",
+  "name": "aitor/analytics-php",
   "version": "3.0.0",
   "description": "Segment Analytics PHP Library",
   "keywords": [
